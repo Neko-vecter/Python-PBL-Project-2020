@@ -39,12 +39,12 @@ Make Python program to analyze data than export an excel document.
 ### How to Get Project Files?
 
 #### Download Zip file
-​	"[Download Latest Commit](https://gitee.com/Neko-vecter/python-pbl-project-2020/repository/archive/master.zip)"
+​	"[Download Latest Commit](https://github.com/Neko-vecter/Python-PBL-Project-2020/archive/refs/heads/main.zip)"
 
 #### use git to Clone
 
 ```
-git clone https://gitee.com/Neko-vecter/python-pbl-project-2020.git
+git clone https://github.com/Neko-vecter/Python-PBL-Project-2020.git
 ```
 
 
@@ -72,5 +72,5 @@ remove_old_e() | Remove last element in "age_list" and "num_list"
 
 ###  Other
 
-- If you have problem or code have issue please "[Add issues](https://gitee.com/Neko-vecter/python-pbl-project-2020/issues)"
-- Don’t forget to "[Star](https://gitee.com/Neko-vecter/python-pbl-project-2020/star)" if the project is helpful to you
+- If you have problem or code have issue please "[Add issues](https://github.com/Neko-vecter/Python-PBL-Project-2020/issues)"
+- Don’t forget to "Star" if the project is helpful to you
